@@ -144,7 +144,7 @@ button:hover,button:focus,
     grid-template-columns: 1fr;
   }
 }
-@media (min-width: 500px) (max-width: 750px){
+@media (min-width: 500px) (max-width: 750px) {
   .grid {
     grid-template-columns: 1fr 1fr;
   }
